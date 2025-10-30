@@ -34,6 +34,8 @@
 
 [**Data Analysis Basics - Exercises notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Data%20Analysis%20Basics/Exercises%20Notebook.ipynb)
 
+[**Data Analysis Basics - Exercises Solutions** ⭐   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Data%20Analysis%20Basics/Exercises%20Notebook%20Solutions.ipynb)
+
 ### Data Analysis Advanced
 
 [**Data Analysis Advanced - Learning notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Data%20Analysis%20Advanced/Learning%20Notebook.ipynb)
@@ -41,3 +43,15 @@
 [**Data Analysis Advanced - Exercises notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Data%20Analysis%20Advanced/Exercises%20Notebook.ipynb)
 
 [**Data Analysis Advanced - Special Exercises**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Data%20Analysis%20Advanced/Special%20Exercises.ipynb)
+
+### DoubleIndex
+
+[**Double Index - Learning notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Timeseries%20%26%20DoubleIndex/Double%20Index/Learning%20Notebook.ipynb)
+
+[**Double Index - Exercise notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Timeseries%20%26%20DoubleIndex/Double%20Index/Exercise%20notebook.ipynb)
+
+### Timeseries
+
+[**TimeSeries - Learning notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Timeseries%20%26%20DoubleIndex/TimeSeries/Learning%20Notebook.ipynb)
+
+[**TimeSeries - Exercise notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%201%20-%20Data%20Wrangling%20%26%20Analysis/Timeseries%20%26%20DoubleIndex/TimeSeries/Exercise%20notebook.ipynb)
