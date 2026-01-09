@@ -88,3 +88,89 @@
 [**Learning Notebook Part 1** - Word Embeddings & Visualization   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%202%20-%20Natural%20Language%20Processing/Class%203%20-%20Understanding%20Embeddings/notebooks/Learning%20Notebook%20Part%201.ipynb)
 
 [**Learning Notebook Part 2** - Sentence Embeddings & Classification   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%202%20-%20Natural%20Language%20Processing/Class%203%20-%20Understanding%20Embeddings/notebooks/Learning%20Notebook%20Part%202.ipynb)
+
+## Chapter 3: Supervised learning
+
+### Class 1 - Regression
+[**Slides**](https://github.com/samsung-ai-course/8th-9th-edition/blob/main/Chapter%203%20-%20Supervised%20Learning/Class%201%20-%20Linear%20Regression%20/Slides/8th%269t%20Supervised%20Learning%20%20basics.pdf)
+
+[**Exercise Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%203%20-%20Supervised%20Learning/Class%201%20-%20Linear%20Regression/Exercises/regression.ipynb)
+
+
+### Class 2 - Classification Logistic Regression, KNN, SVM
+
+
+[**Exercise Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%203%20-%20Supervised%20Learning/Class%202%20-%20Classification/Titanic_Classification_Exercise.ipynb)
+
+
+
+### Class 3 - Classification Logistic Regression, KNN, SVM
+
+
+[**Exercise Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%203%20-%20Supervised%20Learning/Class%203%20-%20Decision%20trees%20%26%20Ensemble%20Algorithms/Exercise_notebook.ipynb)
+
+
+
+### Class 4 - Practice
+
+
+[**Exercise Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%203%20-%20Supervised%20Learning/Class%204%20-%20Practice%20and%20methodologies/Multi_Model_Hyperparameter_Tuning_Hotel_Reservations.ipynb)
+
+## Chapter 4: Unsupervised learning
+
+### Class 1 - Clustering
+[**1.1 K-means intro**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%204%20-%20Unsupervised%20Learning/clustering/1.1%20K-means-Intro.ipynb)
+
+[**1.1 K-means intro**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%204%20-%20Unsupervised%20Learning/clustering/1.1%20K-means-Intro.ipynb)
+
+[**1.2 K-means Iris dataset**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%204%20-%20Unsupervised%20Learning/clustering/1.2%20K-means-real-data.ipynb)
+
+[**1.3 K-means Agglomerative & DBSCAN**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%204%20-%20Unsupervised%20Learning/clustering/1.3%20dbscan-kmeans.ipynb)
+
+[**1.4 Unsupervised clustering challenging**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%204%20-%20Unsupervised%20Learning/clustering/1.4%20exercise_notebook.ipynb)
+
+
+### Class 2 - Dimensionality reduction
+
+
+[** PCA intro **   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%204%20-%20Unsupervised%20Learning/Dimensionality%20reduction/PCA.ipynb)
+
+[** Exercise **   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%204%20-%20Unsupervised%20Learning/Dimensionality%20reduction/Exercise_notebook.ipynb)
+
+## Chapter 5: Responsible AI
+
+[**Bias & Fairness**](https://github.com/samsung-ai-course/8th-9th-edition/blob/main/Chapter%205%20-%20Responsible%20AI/Bias%20%26%20Fairness.pptx)
+
+[**Learning Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%205%20-%20Responsible%20AI/Learning%20Notebook.ipynb)
+
+[**Exercise Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%205%20-%20Responsible%20AI/Exercise%20Notebook.ipynb)
+
+[**AUC ROC vs AvgPrec**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%205%20-%20Responsible%20AI/AUC%20ROC%20vs%20AvgPrec.ipynb)
+
+### Supervised Learning Hackathon - Edition 8
+
+[**Hackathon Page**](https://github.com/samsung-ai-course/8th-9th-edition/tree/main/Supervised%20learning%20Hackathon%20-%20Edition%208)
+
+[**Hackathon Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Supervised%20learning%20Hackathon%20-%20Edition%208/notebook.ipynb)
+
+### Supervised Learning Hackathon - Edition 9
+
+[**Hackathon Page**](https://github.com/samsung-ai-course/8th-9th-edition/tree/main/Supervised%20learning%20Hackathon%20-%20Edition%209)
+
+[**Hackathon Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Supervised%20learning%20Hackathon%20-%20Edition%209/notebook.ipynb)
+
+## Chapter 6: Intro to Deep Learning
+
+[**Chapter 6 Materials**](https://github.com/samsung-ai-course/8th-9th-edition/tree/main/Chapter%206%20-%20Intro%20to%20Deep%20Learning)
+
+### Deep Learning as Basis Regression
+
+[**Learning Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%206%20-%20Intro%20to%20Deep%20Learning/Deep%20Learning%20as%20Basis%20Regression%20-%20Learning%20Notebook.ipynb)
+
+### Building Neural Networks from Scratch
+
+[**Learning Notebook**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%206%20-%20Intro%20to%20Deep%20Learning/Building%20Neural%20Networks%20from%20Scratch/Computational%20Graph%20&%20Micrograd.ipynb)
+
+[**Exercise 1**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%206%20-%20Intro%20to%20Deep%20Learning/Building%20Neural%20Networks%20from%20Scratch/Exercise%201%20-%20Implement%20remaining%20operators.ipynb)
+
+[**Exercise 2**   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samsung-ai-course/8th-9th-edition/blob/main/Chapter%206%20-%20Intro%20to%20Deep%20Learning/Building%20Neural%20Networks%20from%20Scratch/Exercise%202%20-%20Implement%20remaining%20backward.ipynb)
